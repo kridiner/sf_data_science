@@ -43,7 +43,7 @@
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/kridiner/sf_data_science/blob/main/guess-number-task/README.md#Оглавление)
 
 
 ### Выводы:  
