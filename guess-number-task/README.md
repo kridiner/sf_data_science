@@ -40,7 +40,7 @@
 :arrow_up:[к оглавлению](https://github.com/kridiner/sf_data_science/blob/main/guess-number-task/README.md#Оглавление)
 
 
-### Результаты:  
+### Результат:  
 ....
 
 :arrow_up:[к оглавлению](https://github.com/kridiner/sf_data_science/blob/main/guess-number-task/README.md#Оглавление)
